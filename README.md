@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    h1, h2 {
-      color: #2080ff;
-    }
-    p {
-      color: black;
-    }
-  </style>
-</head>
-<body>
+
   <h1>OLÁ! EU SOU O RODRIGO SOUZA</h1>
 
   <h2>SOBRE MIM:</h2>
@@ -37,5 +25,3 @@
   <a href="mailto:rodrigosouza.contatobr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook"></a>
   <a href="https://www.linkedin.com/in/rodrigo-souza-ti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-</body>
-</html>

@@ -2,8 +2,8 @@
 
 
 <p style="text-align: justify;">
-    Eu sou um programador iniciante estudando Engenharia da Computação na UNIVESP. Tenho interesse tanto em frontend quanto em backend e estou sempre disposto a aprender novas tecnologias.
-    Faço ilustrações e designs gráficos Freelance.
+    Eu sou um programador iniciante estudando Engenharia da Computação na UNIVESP. Tenho interesse tanto em frontend quanto em backend e estou sempre disposto a aprender novas tecnologias.<br>
+    Faço ilustrações e designs gráficos Freelance.<br>
     Gosto de Jogar xadrez e aprender coisas novas, sobre tudo um pouco.
 </p>
 

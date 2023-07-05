@@ -7,7 +7,6 @@
     Gosto de Jogar xadrez e aprender coisas novas, sobre tudo um pouco.
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RodrigoSouza-Dev&show_icons=true&theme=transparent" alt="RODRIGO GitHub stats">
 
 <h2>HABILIDADES:</h2>
 

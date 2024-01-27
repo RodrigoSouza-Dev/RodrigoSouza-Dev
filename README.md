@@ -2,7 +2,7 @@
 
 
 <p style="text-align: justify;">
-    Sou um programador iniciante estudando Engenharia da Computação na UNIVESP. 
+    Sou um programador Python iniciante estudando Engenharia da Computação na UNIVESP. Aprendendo sobre IoT, desenvolvimento Web, analise de dados e machine learning.
 </p>
 
 

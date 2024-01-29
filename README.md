@@ -28,5 +28,5 @@ ALGUNS TRABALHOS DE ILUSTRAÇÃO:
 ![Imagem ilustrativa](cleopatra.jpg)
 ![Imagem ilustrativa](thoth.jpg)
 
-<iframe src="tartarugascharacter(1).mp4" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+tartarugascharacter(1).mp4
+[![Vídeo de Exemplo](tartarugascharacter(1).mp4)](tartarugascharacter(1).mp4)

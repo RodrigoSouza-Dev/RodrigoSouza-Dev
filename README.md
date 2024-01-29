@@ -28,4 +28,3 @@ ALGUNS TRABALHOS DE ILUSTRAÇÃO:
 ![Imagem ilustrativa](cleopatra.jpg)
 ![Imagem ilustrativa](thoth.jpg)
 
-[![Vídeo de Exemplo](tartarugas%20character%20(1).mp4)](tartarugas%20character%20(1).mp4)

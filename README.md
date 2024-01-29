@@ -24,7 +24,6 @@
 ![Imagem ilustrativa](dimension.jpg)
 ![Imagem ilustrativa](Eletron.jpg)
 ![Imagem ilustrativa](megaspace.jpg)
-![Imagem ilustrativa](ogroguerreiro.jpg)
 ![Imagem ilustrativa](cleopatra.jpg)
 ![Imagem ilustrativa](thoth.jpg)
 

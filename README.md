@@ -28,8 +28,4 @@
 ![Imagem ilustrativa](cleopatra.jpg)
 ![Imagem ilustrativa](thoth.jpg)
 
-  <iframe src="tartarugas%20character%20(1).mp4" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="tartarugascharacter(1).mp4" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="tartarugas character (1).mp4" width="400" height="300" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,6 +5,7 @@
     Sou um programador Python iniciante estudando Engenharia da Computação na UNIVESP. Aprendendo sobre IoT, desenvolvimento Web, analise de dados e machine learning.
 </p>
 
+![Imagem ilustrativa](working.jpg)
 
 <h2>HABILIDADES:</h2>
 

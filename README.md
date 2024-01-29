@@ -1,11 +1,8 @@
 <h1>OLÁ! EU SOU O RODRIGO SOUZA</h1>
 
-
 <p style="text-align: justify;">
     Sou um programador Python iniciante estudando Engenharia da Computação na UNIVESP. Aprendendo sobre IoT, desenvolvimento Web, analise de dados e machine learning.
 </p>
-
-![Imagem ilustrativa]()
 
 <h2>HABILIDADES:</h2>
 
@@ -21,3 +18,14 @@
   <a href="mailto:rodrigosouza.contatobr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook"></a>
   <a href="https://www.linkedin.com/in/rodrigo-souza-ti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+
+ALGUNS TRABALHOS DE ILUSTRAÇÃO:
+
+![Imagem ilustrativa](dimension.jpg)
+![Imagem ilustrativa](Eletron.jpg)
+![Imagem ilustrativa](megaspace.jpg)
+![Imagem ilustrativa](ogroguerreiro.jpg)
+![Imagem ilustrativa](cleopatra.jpg)
+![Imagem ilustrativa](thoth.jpg)
+
+

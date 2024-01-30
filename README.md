@@ -19,12 +19,6 @@
   <a href="https://www.linkedin.com/in/rodrigo-souza-ti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 
-<h2>ALGUNS TRABALHOS DE ILUSTRAÇÃO:</h2>
 
-![Imagem ilustrativa](dimension.jpg)
-![Imagem ilustrativa](Eletron.jpg)
-![Imagem ilustrativa](megaspace.jpg)
-![Imagem ilustrativa](cleopatra.jpg)
-![Imagem ilustrativa](thoth.jpg)
 
 

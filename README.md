@@ -20,5 +20,9 @@
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 
 
+![Imagem Local](CERTIFICADO_BACK_END.pdf)
+![Imagem Local](CERTIFICADO_ML.pdf)
+![Egito](thoth.jpg)
+
 <h2>PROJETO RESCENTE:</h2>
 

@@ -19,8 +19,9 @@
   <a href="https://www.linkedin.com/in/rodrigo-souza-ti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 
+<h2>CERTIFICADOS:</h2>
+<embed src="CERTIFICADO_BACK_END.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="CERTIFICADO_ML.pdf" type="application/pdf" width="100%" height="600px" />
 
-!([CERTIFICADO_BACK_END.pdf](https://www.dio.me/certificate/GSBCPWDS/share))
 
-<h2>PROJETO RESCENTE:</h2>
 

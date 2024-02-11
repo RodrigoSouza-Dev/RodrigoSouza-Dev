@@ -23,5 +23,8 @@
 <embed src="CERTIFICADO_BACK_END.pdf" type="application/pdf" width="100%" height="600px" />
 <embed src="CERTIFICADO_ML.pdf" type="application/pdf" width="100%" height="600px" />
 
+<iframe src="CERTIFICADO_BACK_END.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
+<iframe src="CERTIFICADO_ML.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
+
 
 

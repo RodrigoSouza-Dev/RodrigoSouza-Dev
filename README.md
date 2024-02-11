@@ -19,15 +19,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-souza-ti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/rodrigosouza4"><img src="https://img.shields.io/badge/Behance-007ACC?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 
-<h2>CERTIFICADOS:</h2>
-<embed src="CERTIFICADO_BACK_END.pdf" type="application/pdf" width="100%" height="600px" />
-<embed src="CERTIFICADO_ML.pdf" type="application/pdf" width="100%" height="600px" />
 
-<iframe src="CERTIFICADO_BACK_END.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
-<iframe src="CERTIFICADO_ML.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
-
-<iframe src="CERTIFICADO_BACK_END.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
-<iframe src="CERTIFICADO_ML.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="600px"></iframe>
 
 
 

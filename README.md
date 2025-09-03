@@ -1,7 +1,8 @@
 <h1>OLÁ! <br> EU SOU O RODRIGO SILVA DE SOUZA</h1>
 
 <p style="text-align: justify;">
-    Sou um programador Python iniciante estudando Engenharia da Computação na UNIVESP. Aprendendo sobre IoT, desenvolvimento Web, analise de dados e machine learning.
+    Sou estudante de Engenharia da Computação na UNIVESP.
+    #python #django #desenvolvimento web #frontend 
 </p>
 
 <h2>HABILIDADES:</h2>

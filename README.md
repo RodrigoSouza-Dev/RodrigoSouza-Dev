@@ -1,12 +1,12 @@
 <div align="center">
 
-  # Olá, eu sou o Rodrigo! 
+  # Olá, seja bem-vindo!
 </div>
 
 ---
 
 ##  Sobre Mim
-Sou estudante de engenharia da computação na UNIVESP (ultimo ano), estou em transição de careira, procuro oportunidades para ingressar na area de tecnologia da informação (aceito oportunidades de estágio).  
+Sou estudante de engenharia da computação na UNIVESP, estou em transição de careira (atuo como Ilustrador freelancer no momento), procuro oportunidades para ingressar na area de tecnologia da informação (aceito oportunidades de estágio, junior) para atuar como desenvolvedor web backend/ frontend, analista de dados, machine learning e afins.  
 
 ---
 

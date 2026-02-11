@@ -24,4 +24,4 @@ Tenho experiência com projetos acadêmicos, bootcamps intensivos e aplicações
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/rodrigo-souza-ti/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-souza-ti/)

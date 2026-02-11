@@ -1,33 +1,27 @@
-<div align="center">
+# 👋 Olá, eu sou Rodrigo Silva de Souza
 
-  # Olá, seja bem-vindo!
-</div>
-
----
-
-##  Sobre Mim
-Sou estudante de engenharia da computação na UNIVESP, estou em transição de careira (atuo como Ilustrador freelancer no momento), procuro oportunidades para ingressar na area de tecnologia da informação (aceito oportunidades de estágio, junior) para atuar como desenvolvedor web backend/ frontend, analista de dados, machine learning e afins.  
+- 🎓 Graduando em **Engenharia da Computação** pela UNIVESP  
+- 💼 Desenvolvedor Backend | Dados | Machine Learning | Freelancer em Design & Ilustração  
+- 🌍 Indaiatuba, São Paulo, Brasil  
 
 ---
 
-##  Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=007ACC" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=007ACC" />
-</div>
+## 🚀 Sobre mim
+Sou um profissional em formação sólida em **Engenharia da Computação**, com foco em **desenvolvimento backend, ciência de dados e machine learning**, aliado a uma forte base analítica e visão prática de negócio.
+
+Tenho experiência com projetos acadêmicos, bootcamps intensivos e aplicações reais, além de atuar como **freelancer em ilustração e design gráfico**, o que reforça minha criatividade, comunicação visual e pensamento sistêmico.
+
+- 🔹 Experiência em **Python, Django, Java, SQL e Análise de Dados**  
+- 🔹 Conhecimentos em **Machine Learning, Estatística e Engenharia de Dados**   
 
 ---
 
-
-</div>
+## 🛠️ Principais Competências
+- **Linguagens:** Python, Java, SQL, JavaScript  
+- **Frameworks & Ferramentas:** Django, Pandas, NumPy
+- **Áreas de atuação:** Backend, Ciência de Dados, Machine Learning
 
 ---
 
-<div align="center">
+## 📫 Contato
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/rodrigo-souza-ti/))
